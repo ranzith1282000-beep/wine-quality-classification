@@ -1,0 +1,6 @@
+model,accuracy,good_found_recall,precision,f1,roc_auc
+Always 'not good',0.865,0.0,,0.0,0.5
+Random forest,0.883,0.347,0.634,0.443,0.875
+"Random forest, balanced",0.881,0.396,0.604,0.467,0.883
+"SVM, balanced",0.809,0.772,0.399,0.525,0.874
+"Logistic regression, balanced",0.786,0.826,0.375,0.513,0.875

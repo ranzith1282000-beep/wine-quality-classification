@@ -1,0 +1,9 @@
+{
+  "duplicate_rows_in_data": 240,
+  "test_rows": 320,
+  "test_rows_also_in_training": 64,
+  "rf_accuracy_on_repeated_wines": 1.0,
+  "rf_accuracy_on_new_wines": 0.875,
+  "always_not_good_accuracy": 0.853,
+  "rf_good_wines_found": 0.511
+}
